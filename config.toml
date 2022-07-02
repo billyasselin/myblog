@@ -1,5 +1,9 @@
 baseurl = "https://billyandhisblog.netlify.app/"
+<<<<<<< HEAD
 title = "Billy's Blog 2"
+=======
+title = "Billy's Blog"
+>>>>>>> 7d47fc9927e9a9d8d50ca7033cdd5a770676fbfa
 theme = "ghostwriter"
 
 [Params]
