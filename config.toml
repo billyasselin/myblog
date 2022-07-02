@@ -1,5 +1,5 @@
-baseurl = "https://billlyasselin.github.io/"
-title = "Billy's Blog"
+baseurl = "https://billyandhisblog.netlify.app/"
+title = "Billy's Blog 2"
 theme = "ghostwriter"
 
 [Params]
